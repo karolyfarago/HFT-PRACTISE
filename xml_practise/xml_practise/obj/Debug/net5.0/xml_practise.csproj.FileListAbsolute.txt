@@ -1,0 +1,16 @@
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.exe
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.deps.json
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.runtimeconfig.json
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.runtimeconfig.dev.json
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.dll
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\ref\xml_practise.dll
+C:\Users\svedv\source\repos\xml_practise\xml_practise\bin\Debug\net5.0\xml_practise.pdb
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.csproj.AssemblyReference.cache
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.AssemblyInfoInputs.cache
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.AssemblyInfo.cs
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.csproj.CoreCompileInputs.cache
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.dll
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\ref\xml_practise.dll
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.pdb
+C:\Users\svedv\source\repos\xml_practise\xml_practise\obj\Debug\net5.0\xml_practise.genruntimeconfig.cache

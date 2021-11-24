@@ -1,0 +1,16 @@
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.exe
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.deps.json
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.runtimeconfig.json
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.runtimeconfig.dev.json
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.dll
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\ref\linq-xml-practise.dll
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\bin\Debug\net5.0\linq-xml-practise.pdb
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.csproj.AssemblyReference.cache
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.AssemblyInfoInputs.cache
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.AssemblyInfo.cs
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.csproj.CoreCompileInputs.cache
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.dll
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\ref\linq-xml-practise.dll
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.pdb
+C:\Users\svedv\source\repos\linq-xml-practise\linq-xml-practise\obj\Debug\net5.0\linq-xml-practise.genruntimeconfig.cache
